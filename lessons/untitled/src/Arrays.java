@@ -5,10 +5,7 @@ public class Arrays {
         for(int m = 0; m<n.length; m++){
             n[m] = m+1;
             System.out.println(m);
-        } do{
-            m = m-1;
-            System.out.println(m);
-        } while(m==0);
+        }
 //        int[] numbers = new int [5];            // numbers -> [array]
 //        for(int i = 0; i<numbers.length; i++){
 //            numbers[i] = i*10;
